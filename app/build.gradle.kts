@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.example.mon_ets_wrapper"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.example.mon_ets_wrapper"
         minSdk = 26
-        targetSdk = 35
+        targetSdk = 36
         versionCode = 1
         versionName = "1.0"
 
