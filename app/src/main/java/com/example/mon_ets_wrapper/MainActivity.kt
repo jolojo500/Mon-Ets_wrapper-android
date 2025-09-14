@@ -14,6 +14,12 @@ import androidx.core.view.setPadding
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
+
+        /*TODO would be nice to add
+        1. gesture detector for zooming
+        2. an actually clean logo
+        3. figure out why fullscreen doesnt exist (problem being a full calendar looking horrible, not fully our end)
+         */
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
 
