@@ -19,6 +19,8 @@ class MainActivity : AppCompatActivity() {
         1. gesture detector for zooming
         2. an actually clean logo
         3. figure out why fullscreen doesnt exist (problem being a full calendar looking horrible, not fully our end)
+        4. after further testing prelaoding would be nice ux / rm loadwithoverviewmode ?
+        5. Check if injection to handle Ui possible
          */
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
